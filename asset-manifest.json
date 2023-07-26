@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smallHwAuto/static/css/main.23e98d41.css",
-    "main.js": "/smallHwAuto/static/js/main.0fba1257.js",
+    "main.js": "/smallHwAuto/static/js/main.2808d94d.js",
     "static/js/787.177e23c2.chunk.js": "/smallHwAuto/static/js/787.177e23c2.chunk.js",
     "index.html": "/smallHwAuto/index.html",
     "main.23e98d41.css.map": "/smallHwAuto/static/css/main.23e98d41.css.map",
-    "main.0fba1257.js.map": "/smallHwAuto/static/js/main.0fba1257.js.map",
+    "main.2808d94d.js.map": "/smallHwAuto/static/js/main.2808d94d.js.map",
     "787.177e23c2.chunk.js.map": "/smallHwAuto/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23e98d41.css",
-    "static/js/main.0fba1257.js"
+    "static/js/main.2808d94d.js"
   ]
 }
