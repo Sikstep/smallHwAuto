@@ -7,7 +7,7 @@ type InputPropsType = {
 
 export const Input = (props: InputPropsType) => {
 	const onChangeHandler = (event: ChangeEvent<HTMLInputElement>) => {
-		props.setCurrentText(props.currentText)
+		props.setCurrentText(event.currentTarget.value)
 	};
 
 	return (
